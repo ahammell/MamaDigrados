@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.DATA.EF\bin\Debug\MamaDigrados.DATA.EF.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.DATA.EF\bin\Debug\MamaDigrados.DATA.EF.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.DATA.EF\obj\Debug\MamaDigrados.DATA.EF.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.DATA.EF\obj\Debug\MamaDigrados.DATA.EF.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.DATA.EF\obj\Debug\MamaDigrados.DATA.EF.pdb

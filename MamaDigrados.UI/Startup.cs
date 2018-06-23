@@ -1,7 +1,5 @@
-﻿using Microsoft.Owin;
-using Owin;
+﻿using Owin;
 
-[assembly: OwinStartupAttribute(typeof(MamaDigrados.UI.Startup))]
 namespace MamaDigrados.UI
 {
     public partial class Startup

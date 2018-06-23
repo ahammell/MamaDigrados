@@ -67,3 +67,5 @@ C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigr
 C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.UI\obj\Debug\MamaDigrados.UI.csprojResolveAssemblyReference.cache
 C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.UI\obj\Debug\MamaDigrados.UI.dll
 C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.UI\obj\Debug\MamaDigrados.UI.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.UI\bin\MamaDigrados.DATA.EF.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\MamaDigrados\src\MamaDigrados.UI\bin\MamaDigrados.DATA.EF.pdb
